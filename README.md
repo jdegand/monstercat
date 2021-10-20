@@ -50,5 +50,5 @@ The [challenge](https://www.frontendpractice.com/project/monstercat) was to buil
 - [Forum](https://forum.freecodecamp.org/t/can-we-place-audio-tag-inside-button-tag/247611) - audio tag inside button tag?
 - [Catswhocode](https://catswhocode.com/html-audio-tag/) - Audio tag
 - [YouTube](https://www.youtube.com/watch?v=b4EgP8f3wkU) - Vivi
-- [Drivereasy](https://www.drivereasy.com/knowledge/extract-audio-from-youtube-video/)
-- [Stack Overflow](https://stackoverflow.com/questions/54602553/custom-cursor-cant-click-on-dom-elements)
+- [Drivereasy](https://www.drivereasy.com/knowledge/extract-audio-from-youtube-video/) - Extract Audio from YouTube
+- [Stack Overflow](https://stackoverflow.com/questions/54602553/custom-cursor-cant-click-on-dom-elements) - Custome Cursor interaction w/ DOM elements
